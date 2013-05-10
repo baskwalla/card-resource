@@ -1,3 +1,6 @@
-"firstName" : "mike"
-"lastName" : "Johnsnos"
-"Address" : "1234 Blah Street Ave Apt 1"
+{
+"employees": [
+    {"firstName":"mike", "lastname":"johnson"},
+    {"firstName":"sample", "lastname":"my"}
+    ]
+}
