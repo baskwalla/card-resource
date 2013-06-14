@@ -12,3 +12,5 @@ fs.readFile( 'database.json', 'ascii', function(err, data){
 });
 
 console.log("outside 'readfile' callback, looks like would have to do callback chaining " + data);
+
+//here is a super awesome comment
