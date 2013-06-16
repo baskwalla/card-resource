@@ -1,6 +1,83 @@
-{
-"employees": [
-    {"firstName":"mike", "lastname":"johnson"},
-    {"firstName":"sample", "lastname":"my"}
-    ]
-}
+[
+    {
+    	"cardName":"Cryptic Command", 
+    	"cardTypes":"Instant",
+    	"cardText":"Choose two - Counter target spell; or return target permanent to its owner's hand; or tap all creatures your opponents control; or draw a card.",
+    	"cardColor":"blue",
+    	"cardRarity":"rare",
+    	"cardSet":
+    		{
+    			"firstSet":"Lorwyn", 
+    			"secondSet":"Modern Masters"
+    		},
+    	"cardNumber":"38",
+    	"cardFlavor":"null"
+    },
+    {
+    	"cardName":"Incendiary Command", 
+    	"cardTypes":"Sorcery",
+    	"cardText":"Choose two - Incendiary Command deals 4 damage to target player; or Incendiary Command deals 2 damage to each creature; or destroy target nonbasic land; or each player discards all the cards in his or her hand, then draws that many cards.",
+    	"cardColor":"Red",
+    	"cardRarity":"Rare",
+    	"cardSet":
+    		{
+    			"firstSet":"Lorwyn"
+    		},
+    	"cardNumber":"179",
+    	"cardFlavor":"null"
+    },
+    {
+    	"cardName":"Austere Command", 
+    	"cardTypes":"Sorcery",
+    	"cardText":"Choose two - Destroy all artifacts; or destroy all enchantments; or destroy all creatures with converted mana cost 3 or less; or destroy all creatures with converted mana cost 4 or greater.",
+    	"cardColor":"White",
+    	"cardRarity":"Rare",
+    	"cardSet":
+    		{
+    			"firstSet":"Lorwyn"
+    		},
+    	"cardNumber":"8",
+    	"cardFlavor":"null"
+    },
+    {
+    	"cardName":"Primal Command", 
+    	"cardTypes":"Sorcery",
+    	"cardText":"Choose two - Target player gains 7 life; or put target noncreature permanent on top of its owner's library; or target player shuffles his or her graveyard into his or her library; or search your library for a creature card, reveal it, put it into your hand, then shuffle your library.",
+    	"cardColor":"Green",
+    	"cardRarity":"Rare",
+    	"cardSet":
+    		{
+    			"firstSet":" Lorwyn"
+    		},
+    	"cardNumber":"66",
+    	"cardFlavor":"null"
+    },
+    {
+    	"cardName":"Profane Command", 
+    	"cardTypes":"Sorcery",
+    	"cardText":"Choose two - Target player loses X life; or return target creature card with converted mana cost X or less from your graveyard to the battlefield; or target creature gets -X/-X until end of turn; or up to X target creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)",
+    	"cardColor":"Black",
+    	"cardRarity":"Rare",
+    	"cardSet":
+    		{
+    			"firstSet":"Lorwyn", 
+    			"secondSet":"Duel Decks: Ajani vs. Nicol Bolas",
+    			"thirdSet":"Planechase"
+    		},
+    	"cardNumber":"135",
+    	"cardFlavor":"null"
+    },
+    {
+    	"cardName":"Birds of Paradise", 
+    	"cardTypes":"Creature",
+    	"cardText":"Flying. Tap: Add one mana of any color to your mana pool.",
+    	"cardColor":"Green",
+    	"cardRarity":"Rare",
+    	"cardSet":
+    		{
+    			"firstSet":"M12"
+    		},
+    	"cardNumber":"165",
+    	"cardFlavor":"The gods used their feathers to paint all the colors of the world -Yare-Tiva, warden of Gramur forest"
+    }
+]
